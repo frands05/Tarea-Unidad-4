@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    background-color: blue;
+    color: floralwhite;
+}
+h1:hover{
+    color: black;
+}
+
+spam {
+    text-transform: uppercase;
+    color: firebrick;
+    
+}
+h2{
+    background-color: blue;
+    color:floralwhite;
+    width: 50%;
+}
+h2:hover{
+    color: black;
+    text-transform:uppercase ;
+}
+h3 {
+    background-color: blue;
+    color: floralwhite;
+    width: 50%;
+}
+h3:hover{
+    color: black;
+    text-transform: uppercase;
+}
+.clase1 {
+    background-color:cadetblue;
+    height: 200px;
+    width: 200px;
+    border:5px solid black;
+    box-sizing: border-box;
+    padding: 35px;
+
+}
+.clase1:hover {
+    background-color: darkgray;
+}
+.clase2 {
+    background-color: cadetblue;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    padding: 35px;
+}
+.clase2:hover{
+    background-color: darkgray;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
